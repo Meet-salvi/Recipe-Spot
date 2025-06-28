@@ -14,8 +14,6 @@ export default function Banner() {
                                 <h1 className="uk-heading-small uk-margin-remove-top">Choose from thousands of recipes</h1>
                                 <p className="uk-text-secondary">Appropriately integrate technically sound value with scalable infomediaries
                                     negotiate sustainable strategic theme areas</p>
-                                <a className="uk-text-secondary uk-text-600 uk-text-small hvr-forward" href="sign-up.html">Sign up today<span
-                                    className="uk-margin-small-left" data-uk-icon="arrow-right"></span></a>
                             </div>
                         </div>
                         <div className="uk-width-expand@m">
